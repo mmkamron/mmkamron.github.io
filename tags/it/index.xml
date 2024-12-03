@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT on Kamron Mirsamatov</title>
+    <link>http://localhost:1313/tags/it/</link>
+    <description>Recent content in IT on Kamron Mirsamatov</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2023 21:47:54 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reinventing the &#34;wheel&#34; to learn programming</title>
+      <link>http://localhost:1313/posts/howilearnprogramming/</link>
+      <pubDate>Sat, 11 Mar 2023 21:47:54 +0100</pubDate>
+      <guid>http://localhost:1313/posts/howilearnprogramming/</guid>
+      <description>&lt;p&gt;Now we are at a point where new people in the IT industry start learning about&#xA;programming straight ahead from programmming languages. Programming is not only&#xA;about the syntax it is about thinking like an engineer to&#xA;come up with sophisticated solutions. Therefore, I focused on learning&#xA;computer science fundamental topics such as computer architecture, compilers,&#xA;operating systems, algorithms and data structures.&lt;/p&gt;&#xA;&lt;p&gt;You might ask, why would you waste your time reinventing the wheel? Well, because&#xA;if you don&amp;rsquo;t know these basics and how the program works inside out, you are not&#xA;a real engineer, you are just another user with bunch of external libraries and&#xA;frameworks by connecting them with each other and calling it a final product. The reason in my opinion why newbies may struggle&#xA;to feel like true developers when faced with a job is that requirements that include many&#xA;abstract frameworks and tools, rather than allowing for more hands-on coding&#xA;experience. A lot of beginners these days (including myself) learn popular&#xA;frameworks that are used in the field and then apply for jobs without having an&#xA;understanding of the underlying mechanisms involved. The problem with those &lt;a href=&#34;https://www.urbandictionary.com/define.php?term=Soydev&#34;&gt;soydevs&lt;/a&gt; when they have to move to another project, it is gonna take them a lot more time to get&#xA;used to because they lack foundational computer science skills.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Studying cybersecurity</title>
+      <link>http://localhost:1313/posts/cybersecurity/</link>
+      <pubDate>Sat, 05 Mar 2022 18:41:27 +0200</pubDate>
+      <guid>http://localhost:1313/posts/cybersecurity/</guid>
+      <description>&lt;p&gt;Cybersecurity careers are one of the fastest-growing and in-demand fields of IT&#xA;nowadays. I had no idea about this field before, even if I was interested in&#xA;IT. I only came across it when I was watching a video about IT&#xA;certifications that help people to get an IT job. And in fact, exams to get&#xA;these certifications are not very expensive, have up-to-date topics, and get&#xA;people job faster than standard universities in most cases. After some google&#xA;search, I found a website called tryhackme, hackthebox and so on. And when I&#xA;started to study on these websites, I discovered for myself a whole new field of&#xA;cybersecurity. Then I watched videos of professionals in this field and their&#xA;views. After some hands-on experience on tryhackme.com, I got really into that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux vs Windows</title>
+      <link>http://localhost:1313/posts/linux_and_windows/</link>
+      <pubDate>Sat, 20 Nov 2021 19:18:54 +0200</pubDate>
+      <guid>http://localhost:1313/posts/linux_and_windows/</guid>
+      <description>&lt;p&gt;Nowadays almost everyone uses Windows or Mac operating system, and only a few choose Linux as their daily driver. It is mostly because Linux is not as popular as Windows or Mac. After all, there is no big corporation behind it, or there are stereotypes such as &lt;em&gt;Linux is only for programmers and it is difficult to use one&lt;/em&gt;. I am not going to write about Linux elitism or the difference between free and open-source, and proprietary software. Here I just simply compare Linux and Windows. Now, let&amp;rsquo;s look at some advantages of using Linux over Windows.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

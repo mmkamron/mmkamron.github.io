@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kamron Mirsamatov</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Kamron Mirsamatov</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Sep 2022 18:52:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My library</title>
+      <link>http://localhost:1313/books/</link>
+      <pubDate>Mon, 12 Sep 2022 18:52:44 +0200</pubDate>
+      <guid>http://localhost:1313/books/</guid>
+      <description>&lt;p&gt;Below is a list of books that I have read in the past.&lt;/p&gt;&#xA;&lt;h3 id=&#34;programming&#34;&gt;Programming&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The C programming language - Dennis Ritchie, Brian Kernighan&lt;/li&gt;&#xA;&lt;li&gt;The Go programming language - Alan Donovan, Brian Kernighan&lt;/li&gt;&#xA;&lt;li&gt;Concurrency in Go - Katherine Cox&lt;/li&gt;&#xA;&lt;li&gt;Let&amp;rsquo;s Go further - Alex Edwards&lt;/li&gt;&#xA;&lt;li&gt;Distributed services with Go - Travis Jeffery&lt;/li&gt;&#xA;&lt;li&gt;Code - Charles Petzold&lt;/li&gt;&#xA;&lt;li&gt;Inside the machine - Jon Stokes&lt;/li&gt;&#xA;&lt;li&gt;Grokking algorithms - Aditya Bhargava&lt;/li&gt;&#xA;&lt;li&gt;Network programming - Brian &amp;ldquo;Beej&amp;rdquo; Hall&lt;/li&gt;&#xA;&lt;li&gt;Network concepts - Brian &amp;ldquo;Beej&amp;rdquo; Hall&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Why we sleep - Matthew Walker&lt;/li&gt;&#xA;&lt;li&gt;How not to die - Gene Stone &amp;amp; Michael Greger&lt;/li&gt;&#xA;&lt;li&gt;Antifragile - Nassim Nicholas Taleb&lt;/li&gt;&#xA;&lt;li&gt;The open conspiracy - Herbert Wells&lt;/li&gt;&#xA;&lt;li&gt;The blank slate - Steven Pinker&lt;/li&gt;&#xA;&lt;li&gt;Siddhartha - Hermann Hesse&lt;/li&gt;&#xA;&lt;li&gt;The wisdom of psychopaths - Kevin Dutton&lt;/li&gt;&#xA;&lt;li&gt;Практическая характерология - Виктор Пономаренко&lt;/li&gt;&#xA;&lt;li&gt;Win bigly - Scott Adams&lt;/li&gt;&#xA;&lt;li&gt;Преступление и наказание - Фёдор Достоевский&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
